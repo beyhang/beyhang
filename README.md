@@ -2,7 +2,7 @@
 
 I'm Beyhan <br>
 Junior Frontend Devoleper <br>
-- 🌱 I’m currently learning Javascript <br>
+-🌱 I’m currently learning Javascript <br>
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=beyhang&show_icons=true&theme=gradient) 
 
