@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-I'm Beyhan
-I'm junior frontend devoleper
-
-
+I'm Beyhan <br>
+I'm junior frontend devoleper <br>
 - 🌱 I’m currently learning Javascript
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=beyhang&show_icons=true&theme=gradient) 
 
