@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
+I'm Beyhan
+I'm junior frontend devoleper
 
 
 - 🌱 I’m currently learning Javascript
